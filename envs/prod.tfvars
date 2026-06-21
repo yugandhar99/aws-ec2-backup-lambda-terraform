@@ -1,0 +1,9 @@
+environment              = "prod"
+retention_days           = 14
+log_retention_days       = 180
+backup_schedule          = "cron(0 2 * * ? *)"
+create_sample_instances  = false
+log_bucket_force_destroy = false
+dry_run                  = false
+enable_notifications     = false
+# notification_email       = "platform-team@example.com"

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "environment": "dev",
+  "started_at": "2026-01-01T00:00:00+00:00",
+  "retention_days": 7,
+  "snapshots_created": [
+    {
+      "instance_id": "i-1234567890",
+      "instance_name": "app-server",
+      "volume_id": "vol-123",
+      "snapshot_id": "snap-123"
+    }
+  ],
+  "snapshots_deleted": [
+    {
+      "snapshot_id": "snap-old",
+      "created_on": "2025-12-20",
+      "status": "deleted"
+    }
+  ],
+  "errors": [],
+  "duration_seconds": 4.2
+}

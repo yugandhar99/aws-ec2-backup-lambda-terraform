@@ -1,0 +1,45 @@
+{
+  "Version": "2012-10-17",
+  "Id": "PolicyForEC2AutoBackupLambda",
+  "Statement": [
+    {
+      "Sid": "AllowCloudWatchLogging",
+      "Effect": "Allow",
+      "Action": [
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+      ],
+      "Resource": "arn:aws:logs:*:*:*"
+    },
+    {
+      "Sid": "AllowEC2SnapshotAutomation",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:DescribeInstances",
+        "ec2:DescribeVolumes",
+        "ec2:CreateSnapshot",
+        "ec2:DescribeSnapshots",
+        "ec2:DeleteSnapshot",
+        "ec2:CreateTags"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "AllowBackupReportWrite",
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutObject"
+      ],
+      "Resource": "${log_bucket_arn}/*"
+    }%{ if sns_topic_arn != "" },
+    {
+      "Sid": "AllowSnsNotification",
+      "Effect": "Allow",
+      "Action": [
+        "sns:Publish"
+      ],
+      "Resource": "${sns_topic_arn}"
+    }%{ endif }
+  ]
+}
