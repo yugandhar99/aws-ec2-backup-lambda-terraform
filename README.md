@@ -176,3 +176,50 @@ Be careful: destroying resources may remove AWS infrastructure created by this p
 ## Resume Bullet
 
 Built a serverless AWS EC2 backup automation solution using Terraform, Lambda, EventBridge, S3, SNS, and CloudWatch to create scheduled EBS snapshots, enforce retention cleanup, store audit reports, and support AI-assisted backup summaries for operational review.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=120&section=footer&text=Let's%20Connect&fontColor=ffffff&fontSize=32&fontAlignY=70" />
+</p>
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <em>
+    Thanks for visiting this project! I’m continuously building hands-on DevOps, Cloud, Automation, and AI-enabled engineering projects to improve real-world deployment, monitoring, and infrastructure skills.
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+%7C+Cloud+%7C+Automation;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+real-world+projects+one+commit+at+a+time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yugandhar99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-yugandhar99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yugandhar-chowdary-33baa4216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yugandhar%20Chowdary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yugandhar-portfolio-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/IaC-Terraform-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-2496ED?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ If this project added value, feel free to star the repository and connect with me!
+</p>
+
+<p align="center">
+  <strong>Built with ❤️ using modern DevOps practices</strong>
+</p>
