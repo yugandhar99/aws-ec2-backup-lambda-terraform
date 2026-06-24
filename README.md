@@ -196,14 +196,17 @@ Built a serverless AWS EC2 backup automation solution using Terraform, Lambda, E
 </p>
 
 <p align="center">
-  <a href="https://github.com/yugandhar99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yugandhar99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/yugandhar99" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/yugandhar-chowdary-33baa4216" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yugandhar%20Chowdary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yugandhar-devops" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yugandhar-portfolio-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://yugandhar-portfolio-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yugandharethamukkala1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
