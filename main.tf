@@ -6,8 +6,6 @@ data "aws_vpc" "default" {
   count   = var.create_sample_instances ? 1 : 0
   default = true
 }
-
-
 data "aws_subnets" "default" {
   count = var.create_sample_instances ? 1 : 0
 
