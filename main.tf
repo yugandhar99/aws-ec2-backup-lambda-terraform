@@ -3,7 +3,7 @@
 # Enable create_sample_instances=true only when you want to test the backup workflow.
 
 data "aws_vpc" "default" {
-  count   = var.create_sample_instances ? 1 : 0
+  count   = var.create_sample_ins tances ? 1 : 0
   default = true
 }
 data "aws_subnets" "default" {
