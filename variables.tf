@@ -1,5 +1,5 @@
 variable "project_name" {
-  description = "Project name used for AWS resource names and tags."
+  description = "Project name used for AWS resource names and tag s."
   type        = string
   default     = "ec2-auto-backup"
 
