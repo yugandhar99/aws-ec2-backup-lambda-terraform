@@ -1,4 +1,4 @@
-### Optional demo EC2 instances ###
+### Optional demo EC2 instances ### 
 # This block is disabled by default to avoid creating compute resources by accident.
 # Enable create_sample_instances=true only when you want to test the backup workflow.
 
