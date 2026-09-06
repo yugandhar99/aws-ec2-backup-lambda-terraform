@@ -1,4 +1,4 @@
-# Optional remote backend example.
+# Optional remote backend example. 
 # For a real team project, create the backend bucket/table first and then uncomment this block.
 #
 # terraform {
