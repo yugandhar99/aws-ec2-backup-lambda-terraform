@@ -2,7 +2,7 @@
 # This block is disabled by default to avoid creating compute resources by accident.
 # Enable create_sample_instances=true only when you want to test the backup workflow.
 
-data "aws_vpc" "default" { 
+data "aws_vpc" "default" {
   count   = var.create_sample_instances ? 1 : 0
   default = true
 }
