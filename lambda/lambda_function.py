@@ -1,5 +1,5 @@
 """
-AWS Lambda function for automated EC2 EBS snapshot backups.
+AWS Lambda function for automated EC2 EBS snapshot backups. 
 
 The function discovers EC2 instances by tag, creates snapshots for attached EBS
 volumes, stores an execution report in S3, and deletes old snapshots based on a
