@@ -1,6 +1,6 @@
 output "lambda_function_name" {
   description = "Name of the backup Lambda function."
-  value       = module.lambda_function.lambda_function_name
+  value       = module.lambda_function.lambda_function_name 
 }
 
 output "lambda_function_arn" {
