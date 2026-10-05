@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Optional GenAI-style backup operations summary generator. 
+Optional GenAI-style backup operations summary generator.
 
 This script reads an EC2 backup JSON report and creates an executive-friendly
 summary. By default it works offline with deterministic logic. If you configure
